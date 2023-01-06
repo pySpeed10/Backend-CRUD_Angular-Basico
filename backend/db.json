@@ -1,0 +1,29 @@
+{
+  "produto": [
+    {
+      "nome": "Caneta",
+      "price": "8.78",
+      "id": 1
+    },
+    {
+      "nome": "Geladeira",
+      "price": "1850",
+      "id": 2
+    },
+    {
+      "nome": "tv",
+      "price": "2000",
+      "id": 3
+    },
+    {
+      "nome": "Ang",
+      "price": "8",
+      "id": 4
+    },
+    {
+      "nome": "teste",
+      "price": "8",
+      "id": 5
+    }
+  ]
+}
